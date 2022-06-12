@@ -1,0 +1,36 @@
+{F:/Education/University/Computer Architecture/Computer Homeworks/carryselectadder/Carry-Select-Adder.v} {1 {vlog -work work -vopt -stats=none {F:/Education/University/Computer Architecture/Computer Homeworks/carryselectadder/Carry-Select-Adder.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module CarrySelectAdder
+
+Top level modules:
+	CarrySelectAdder
+
+} {} {}} {F:/Education/University/Computer Architecture/Computer Homeworks/carryselectadder/testbench.v} {1 {vlog -work work -vopt -stats=none {F:/Education/University/Computer Architecture/Computer Homeworks/carryselectadder/testbench.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} {F:/Education/University/Computer Architecture/Computer Homeworks/carryselectadder/onebitfa.v} {1 {vlog -work work -vopt -stats=none {F:/Education/University/Computer Architecture/Computer Homeworks/carryselectadder/onebitfa.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module FullAdder2
+
+Top level modules:
+	FullAdder2
+
+} {} {}} {F:/Education/University/Computer Architecture/Computer Homeworks/carryselectadder/mux2_to_1.v} {1 {vlog -work work -vopt -stats=none {F:/Education/University/Computer Architecture/Computer Homeworks/carryselectadder/mux2_to_1.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module mux2_to_1
+
+Top level modules:
+	mux2_to_1
+
+} {} {}} {F:/Education/University/Computer Architecture/Computer Homeworks/carryselectadder/4bAdder.v} {1 {vlog -work work -vopt -stats=none {F:/Education/University/Computer Architecture/Computer Homeworks/carryselectadder/4bAdder.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module adder4
+
+Top level modules:
+	adder4
+
+} {} {}}
